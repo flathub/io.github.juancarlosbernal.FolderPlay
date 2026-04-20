@@ -46,8 +46,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/juancarlosbernal/FolderPlay.git",
-                    "tag" : "v1.0.4",
-                    "commit" : "0143135852f151a64193b660b3d6d846e3e386b1"
+                    "tag" : "v1.0.5",
+                    "commit" : "222cbd09598bff1d286fc3d69b98dc2af7258b73"
                 },
                 {
                     "type" : "inline",
